@@ -4,6 +4,7 @@ import './component.css';
 function Compo(){
 
     return(
+        <div>
       <div className="main">
          
             < p className='logo'>Debashis </p>
@@ -26,6 +27,11 @@ function Compo(){
             
            </div>
 
+            </div>
+            <section className='hero'>
+                 <h1>Debashis</h1>
+                 <p>Panda</p>
+            </section>
             </div>
         
       

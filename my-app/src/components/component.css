@@ -38,6 +38,11 @@ li{
     display: inline;
     padding: 0 20px;
 }
+.hero{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
 @media (max-width:900px) {
     .social{
         display: none;
